@@ -2,7 +2,7 @@
 
 ToDo
 
-- https://github.com/jshjohnson/Choices (curtom select)
+- https://github.com/jshjohnson/Choices (custom select)
 
 Nice to use
 
