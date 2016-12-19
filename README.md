@@ -13,3 +13,7 @@ Nice to use
 Polyfills
 
 - https://github.com/tonipinel/object-fit-polyfill (object-fit similar to background-size: cover|contain)
+
+Code example
+
+- [].forEach.call(NodeList, function(item){console.log(item)}) (use forEach for nodeList)
