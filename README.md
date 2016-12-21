@@ -18,3 +18,7 @@ Code example
 
 - [].forEach.call(NodeList, function(item){console.log(item)}) (use forEach for nodeList)
 - [...NodeList].forEach() (if es6 compiler exist)
+
+Bundlers
+
+https://github.com/vvasilik/Vanilla-JS-libraries/tree/master/Bundlers
