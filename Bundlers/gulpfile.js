@@ -11,7 +11,7 @@ gulp.task('css', function () {
         precss(),
         cssnext({ browsers: ['last 2 version'] })
     ];
-    return gulp.src('rsc/css/**/*.css')
+    return gulp.src('src/css/**/*.css')
         .pipe(sourcemaps.init())
         .pipe(postcss(processors))
         .pipe(concatCss("bundle.css"))
@@ -28,5 +28,5 @@ gulp.task('css:libs', function () {
 gulp.task('build', ['css:libs', 'css'])
 
 gulp.task('default', ['build'], function () {
-    gulp.watch('Content/www/src/css/**', ['css']);
+    gulp.watch('src/css/**', ['css']);
 });
