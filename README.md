@@ -3,6 +3,7 @@
 ToDo
 
 - https://github.com/jshjohnson/Choices (custom select)
+- https://github.com/chmln/flatpickr
 
 Nice to use
 
