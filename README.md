@@ -19,6 +19,12 @@ Code example
 
 - [].forEach.call(NodeList, function(item){console.log(item)}) (use forEach for nodeList)
 - [...NodeList].forEach() (if es6 compiler exist)
+- NodeList.prototype.forEach = function (cb) {
+      var length = this.length;
+      for (var i = 0; i < length; i++) {
+          cb && cb(this[i]);
+      }
+  }
 
 Bundlers
 
