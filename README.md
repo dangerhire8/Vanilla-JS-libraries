@@ -3,11 +3,11 @@
 ToDo
 
 - https://github.com/jshjohnson/Choices (custom select)
-- https://github.com/chmln/flatpickr
 
 Nice to use
 
 - https://github.com/jashkenas/underscore (functional programming helpers)
+- https://github.com/chmln/flatpickr (datapicker)
 - https://github.com/dbushell/Pikaday (datapicker)
 - https://github.com/moment/moment (parse, validate, manipulate, and display dates)
 - https://github.com/eligrey/FileSaver.js (file loader)
