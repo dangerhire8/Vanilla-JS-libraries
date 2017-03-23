@@ -2,8 +2,6 @@
 
 ToDo
 
-- https://github.com/jshjohnson/Choices (custom select)
-
 Nice to use
 
 - https://github.com/jashkenas/underscore (functional programming helpers)
@@ -11,7 +9,8 @@ Nice to use
 - https://github.com/dbushell/Pikaday (datapicker)
 - https://github.com/moment/moment (parse, validate, manipulate, and display dates)
 - https://github.com/eligrey/FileSaver.js (file loader)
-- https://github.com/MohammadYounes/AlertifyJS - nice notifier
+- https://github.com/MohammadYounes/AlertifyJS (nice notifier)
+- https://github.com/jshjohnson/Choices (custom select)
 
 Polyfills
 
