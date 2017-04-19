@@ -11,6 +11,7 @@ Nice to use
 - https://github.com/eligrey/FileSaver.js (file loader)
 - https://github.com/MohammadYounes/AlertifyJS (nice notifier)
 - https://github.com/jshjohnson/Choices (custom select)
+- https://github.com/rnmp/salvattore (A jQuery Masonry alternative with CSS-driven configuration.)
 
 Polyfills
 
