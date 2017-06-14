@@ -12,6 +12,7 @@ Nice to use
 - https://github.com/MohammadYounes/AlertifyJS (nice notifier)
 - https://github.com/jshjohnson/Choices (custom select)
 - https://github.com/rnmp/salvattore (A jQuery Masonry alternative with CSS-driven configuration.)
+- https://github.com/josephschmitt/Clamp.js/ (Clamps an HTML element by adding ellipsis to it if the content inside is too long)
 
 Polyfills
 
